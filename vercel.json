@@ -1,0 +1,15 @@
+{
+    "projects": {
+      "backend": {
+        "src": "backend",
+        "buildCommand": "npm run build",
+        "outputDirectory": "build"
+      },
+      "frontend": {
+        "src": "frontend",
+        "buildCommand": "npm run build",
+        "outputDirectory": "dist"
+      }
+    }
+  }
+  
