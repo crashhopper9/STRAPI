@@ -1,0 +1,5 @@
+yarn develop for strapi
+yarn dev --open for svelte
+
+daniel97dias@gmail.com
+CF8BktQ37$yafxP
